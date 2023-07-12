@@ -137,4 +137,4 @@ ui-tests/.yarn/*
 ui-tests/.pnp.*
 
 # datasets
-/data/*
+/Data Science/Sample Projects/Customer Support Ticket Categorization/data/*

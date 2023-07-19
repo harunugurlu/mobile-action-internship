@@ -138,3 +138,6 @@ ui-tests/.pnp.*
 
 # datasets
 /Data Science/Sample Projects/Customer Support Ticket Categorization/data/*
+
+# virtual environment
+/Data Science/Sample Projects/Customer Complaint Product Categorization/env/*
